@@ -1,0 +1,28 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+@import url("components/card.css");
+@import url("components/feature.css");
+/* line 7, /Users/stephendau/code/steve5079/fullstack-challenges/04-Front-End/04-Middleman/01-Playing-with-ERB/frontend-advanced-boilerplate/source/stylesheets/style.scss */
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif; }
+
+/* line 11, /Users/stephendau/code/steve5079/fullstack-challenges/04-Front-End/04-Middleman/01-Playing-with-ERB/frontend-advanced-boilerplate/source/stylesheets/style.scss */
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif; }
+
+/* line 14, /Users/stephendau/code/steve5079/fullstack-challenges/04-Front-End/04-Middleman/01-Playing-with-ERB/frontend-advanced-boilerplate/source/stylesheets/style.scss */
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 0; }
+
+/* line 20, /Users/stephendau/code/steve5079/fullstack-challenges/04-Front-End/04-Middleman/01-Playing-with-ERB/frontend-advanced-boilerplate/source/stylesheets/style.scss */
+.padded {
+  padding: 100px 0; }
+
+/* line 23, /Users/stephendau/code/steve5079/fullstack-challenges/04-Front-End/04-Middleman/01-Playing-with-ERB/frontend-advanced-boilerplate/source/stylesheets/style.scss */
+.wrapper-grey {
+  background: #F4F4F4; }
